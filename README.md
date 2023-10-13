@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 🚀 Building responsive and user-friendly web applications.
 🌟 Exploring the latest web development trends and technologies.
 🪙 Blockchain Explorer
-📊 Developing smart contracts using Solidity.
+📊 Developing smart contracts using Solidity .
 🔗 Working with Truffle and Ganache for blockchain development.
 💡 Exploring the limitless possibilities of blockchain technology.
 💡 Data Structures and Algorithms
